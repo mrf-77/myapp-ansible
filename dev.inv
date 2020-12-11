@@ -1,4 +1,4 @@
 [webservers]
-18.212.100.15
-ec2-18-212-100-15.compute-1.amazonaws.com
-172.31.21.172
+18.212.100.15 ansible_user=ec2-user
+ec2-18-212-100-15.compute-1.amazonaws.com ansible_user=ec2-user
+172.31.21.172 ansible_user=ec2-user
